@@ -1,2 +1,2 @@
-# Estudos---Python
-Repositório que uso para publicar o que eu estudei em Python
+# Estudos - Python
+Projetos, scripts e códigos desenvolvidos durante meus estudos práticos em Python. 🐍💻
